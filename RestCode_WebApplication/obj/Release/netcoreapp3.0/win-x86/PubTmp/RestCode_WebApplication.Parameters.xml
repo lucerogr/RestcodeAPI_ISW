@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RestCodeAPI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Richard\\OneDrive\\Desktop\\RestCodeAPI_WebApplication\\RestCode_WebApplication\\obj\\Release\\netcoreapp3\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,817 @@
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Documents/GitHub/RestCode_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/user/Documents/GitHub/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/Downloads/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/nuevp/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge1/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/Vaina de Web/PRUEBAS BUENAS/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/user/Pictures/RestCodeAPI_WebApplication_Prueba.Merge2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/Downloads/Nueva carpeta (6)/RestCodeAPI_WebApplication-feature-Upgrade_EntityRestaurants-CategoriesAndProducts/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/ServiceDependencies/RestCodeAPI - Web Deploy/profile.arm.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.exe
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/serviceDependencies.json
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Richard/OneDrive/Desktop/RestCodeAPI_WebApplication/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/ServiceDependencies/restcodewebapplication - Web Deploy/profile.arm.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/serviceDependencies.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/ServiceDependencies/RestCodeAPI - Web Deploy/profile.arm.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Properties/ServiceDependencies/restcodewebapplication - Web Deploy/profile.arm.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.deps.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.runtimeconfig.dev.json
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Compression.LZ4.Streams.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/K4os.Hash.xxHash.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Ubiety.Dns.Core.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Zstandard.Net.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/MySql.Data.EntityFrameworkCore.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csprojAssemblyReference.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfoInputs.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.AssemblyInfo.cs
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CoreCompileInputs.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.RazorTargetAssemblyInfo.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.csproj.CopyComplete
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.Manifest.cache
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/staticwebassets/RestCode_WebApplication.StaticWebAssets.xml
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.dll
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.pdb
+/Users/nuevo/Documents/all/CAPSTONE PROJECT/RestCodeAPI_WebApplication 2/RestCode_WebApplication/obj/Debug/netcoreapp3.0/RestCode_WebApplication.genruntimeconfig.cache
