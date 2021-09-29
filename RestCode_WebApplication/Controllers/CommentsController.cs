@@ -43,11 +43,10 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "Creates a new comment",
-            Description = "Requires date, description and publicationId",
-            OperationId = "CreateComment",
-            Tags = new[] { "Comments" }
-        )]
+            Summary = "Create a new comment",
+            Description = "Requires date, description and publicationId, consultantId and ownerId",
+            OperationId = "CreateNewComment",
+            Tags = new[] { "Comments" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync(SaveCommentResource resource)
         {
@@ -64,11 +63,10 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "Updates an existing comment",
-            Description = "Requires id, date and description",
-            OperationId = "UpdateComment",
+            Summary = "Update an existing comment",
+            Description = "Requires date, description and publicationId, consultantId and ownerId",
+            OperationId = "UpdateExistingComment",
             Tags = new[] { "Comments" })]
-
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveCommentResource resource)
         {
@@ -82,9 +80,9 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "Deletes a comment",
-            Description = "Requires id",
-            OperationId = "DeleteComment",
+            Summary = "Delete an existing comment",
+            Description = "Requires Id",
+            OperationId = "DeleteExistingComment",
             Tags = new[] { "Comments" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
