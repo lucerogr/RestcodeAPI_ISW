@@ -39,7 +39,12 @@ namespace RestCode_WebApplication.Controllers
             var resources = _mapper.Map<IEnumerable<Assignment>, IEnumerable<AssignmentResource>>(assignments);
             return resources;
         }
-        
+
+        [SwaggerOperation(
+            Summary = "Create a new assignment",
+            Description = "Requires state, consultantId and restaurantId",
+            OperationId = "CreateNewAssignment",
+            Tags = new[] { "Assignments" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync(SaveAssignmentResource resource)
         {
@@ -55,6 +60,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(assignmentResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing assignment",
+            Description = "Requires state, consultantId and restaurantId",
+            OperationId = "UpdateExistingAssignment",
+            Tags = new[] { "Assignments" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveAssignmentResource resource)
         {
@@ -67,6 +77,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(assignmentResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing assignment",
+            Description = "Requires Id",
+            OperationId = "DeleteExistingAssignment",
+            Tags = new[] { "Assignments" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
