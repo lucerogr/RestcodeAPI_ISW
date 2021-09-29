@@ -4,6 +4,7 @@ using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Extensions;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all sales",
+            Description = "List of sales",
+            OperationId = "ListAllSales",
+            Tags = new[] { "Sales" })]
+        [SwaggerResponse(200, "List of Sales", typeof(IEnumerable<SaleResource>))]
         [HttpGet]
         public async Task<IEnumerable<SaleResource>> GetAllAsync()
         {
@@ -32,6 +39,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing sale",
+            Description = "Requires id",
+            OperationId = "GetExistingSale",
+            Tags = new[] { "Sales" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -43,6 +55,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new sale",
+            Description = "Requires date, clientFullName and restaurantId",
+            OperationId = "CreateNewSale",
+            Tags = new[] { "Sales" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveSaleResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(saleResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing sale",
+            Description = "Requires date, clientFullName and restaurantId",
+            OperationId = "UpdateExistingSale",
+            Tags = new[] { "Sales" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveSaleResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(saleResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing sale",
+            Description = "Requires Id",
+            OperationId = "DeleteExistingSale",
+            Tags = new[] { "Sales" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
