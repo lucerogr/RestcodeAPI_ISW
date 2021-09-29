@@ -27,8 +27,8 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "List all comments by publication",
-            Description = "List of Comments for an specific Publication",
+            Summary = "List all comments by publication id",
+            Description = "List of Comments for an specific Publication. Requires publicationId",
             OperationId = "ListCommentByPublication",
             Tags = new[] { "Publications" })]
         [HttpGet]
