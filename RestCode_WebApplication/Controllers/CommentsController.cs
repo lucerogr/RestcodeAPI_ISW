@@ -35,11 +35,11 @@ namespace RestCode_WebApplication.Controllers
         [SwaggerResponse(200, "List of comments", typeof(IEnumerable<CommentResource>))]
         [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<CommentResource>), 200)]
-        public async Task<IEnumerable<Comment>> GetAllAsync()
+        public async Task<IEnumerable<CommentResource>> GetAllAsync()
         {
             var comments = await _commentService.ListAsync();
             var resources = _mapper.Map<IEnumerable<Comment>, IEnumerable<CommentResource>>(comments);
-            return comments;
+            return resources;
         }
 
         [SwaggerOperation(
