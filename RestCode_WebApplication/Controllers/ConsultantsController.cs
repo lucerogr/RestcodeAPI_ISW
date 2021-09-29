@@ -29,13 +29,13 @@ namespace RestCode_WebApplication.Controllers
             Description = "List all consultants",
             OperationId = "ListAllConsultants",
             Tags = new[] { "Consultants" })]
-        [SwaggerResponse(200, "List of Consultants", typeof(IEnumerable<ConsultancyResource>))]
+        [SwaggerResponse(200, "List of Consultants", typeof(IEnumerable<ConsultantResource>))]
         [HttpGet]
-        public async Task<IEnumerable<Consultant>> GetAllAsync()
+        public async Task<IEnumerable<ConsultantResource>> GetAllAsync()
         {
             var consultants = await _consultantService.ListAsync();
             var resources = _mapper.Map<IEnumerable<Consultant>, IEnumerable<ConsultantResource>>(consultants);
-            return consultants;
+            return resources;
         }
 
         [SwaggerOperation(
