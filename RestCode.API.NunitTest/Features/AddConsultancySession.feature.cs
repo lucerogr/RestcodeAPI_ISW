@@ -35,8 +35,8 @@ namespace RestCode.API.SpecTest.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "AddConsultancySession", "\tAs a consultant I want to schedule\n\ta consulting session according to the appoin" +
-                    "tment previously made", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "AddConsultancySession", "\tAs a consultant I want to schedule\r\n\ta consulting session according to the appoi" +
+                    "ntment previously made", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         

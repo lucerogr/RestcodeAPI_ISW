@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.NunitTest/RestCode.API.SpecTest.csproj": {}
+    "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj": {}
   },
   "projects": {
-    "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.NunitTest/RestCode.API.SpecTest.csproj": {
+    "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.NunitTest/RestCode.API.SpecTest.csproj",
+        "projectUniqueName": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
         "projectName": "RestCode.API.SpecTest",
-        "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.NunitTest/RestCode.API.SpecTest.csproj",
-        "packagesPath": "/Users/nuevo/.nuget/packages/",
-        "outputPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.NunitTest/obj/",
+        "projectPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
+        "packagesPath": "C:\\Users\\ALGR\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/nuevo/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ALGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj": {
-                "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj"
+              "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj": {
+                "projectPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj"
               }
             }
           }
@@ -42,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -83,33 +84,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj": {
+    "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj",
+        "projectUniqueName": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj",
         "projectName": "RestCode_WebApplication",
-        "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj",
-        "packagesPath": "/Users/nuevo/.nuget/packages/",
-        "outputPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/obj/",
+        "projectPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj",
+        "packagesPath": "C:\\Users\\ALGR\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/nuevo/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ALGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -121,6 +122,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -187,7 +189,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

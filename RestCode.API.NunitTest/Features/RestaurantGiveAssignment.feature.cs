@@ -35,8 +35,8 @@ namespace RestCode.API.SpecTest.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "RestaurantGiveAssignment", "\tAs a restaurant owner, I make assignment \n\tto the consultant to access its infor" +
-                    "mation", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "RestaurantGiveAssignment", "\tAs a restaurant owner, I make assignment \r\n\tto the consultant to access its info" +
+                    "rmation", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         

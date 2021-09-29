@@ -10,3 +10,9 @@
 *.dll
 *.pdb
 *.txt
+*.editorconfig
+*.config
+*.testlog
+*.manifest
+.vs/RestCode_WebApplication/v16/.suo
+*.exe
