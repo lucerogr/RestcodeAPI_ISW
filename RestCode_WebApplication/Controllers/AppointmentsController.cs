@@ -43,6 +43,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new appointment",
+            Description = "Requires currentDate, scheduleDate, topic, meetLink, ownerId and consultantId",
+            OperationId = "CreateNewAppointment",
+            Tags = new[] { "Appointments" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync(SaveAppointmentResource resource)
         {
@@ -58,6 +63,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(appointmentResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing appointment",
+            Description = "Requires currentDate, scheduleDate, topic, meetLink, ownerId and consultantId",
+            OperationId = "UpdateExistingAppointment",
+            Tags = new[] { "Appointments" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveAppointmentResource resource)
         {
@@ -70,6 +80,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(appointmentResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing appointment",
+            Description = "Requires Id",
+            OperationId = "DeleteExistingAppointment",
+            Tags = new[] { "Appointments" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
