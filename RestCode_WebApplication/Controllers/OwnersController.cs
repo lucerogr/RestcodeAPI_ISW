@@ -4,6 +4,7 @@ using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Extensions;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all restaurant owners",
+            Description = "List all restaurant owners",
+            OperationId = "ListAllRestaurantOwners",
+            Tags = new[] { "Owners" })]
+        [SwaggerResponse(200, "List of restaurant owners", typeof(IEnumerable<OwnerResource>))]
         [HttpGet]
         public async Task<IEnumerable<OwnerResource>> GetAllAsync()
         {
@@ -32,6 +39,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing restaurant owner",
+            Description = "Requires id",
+            OperationId = "GetExistingRestaurantOwner",
+            Tags = new[] { "Owners" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -43,6 +55,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new restaurant owner",
+            Description = "Requires userName, firstName, lastName, cellphone, email, password and ruc",
+            OperationId = "CreateNewRestaurantOwner",
+            Tags = new[] { "Owners" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveOwnerResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(ownerResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing restaurant owner",
+            Description = "Requires userName, firstName, lastName, cellphone, email, password and ruc",
+            OperationId = "UpdateExistingRestaurantOwner",
+            Tags = new[] { "Owners" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveOwnerResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(ownerResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing restaurant owner",
+            Description = "Requires id",
+            OperationId = "DeleteExistingRestaurantOwner",
+            Tags = new[] { "Owners" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
