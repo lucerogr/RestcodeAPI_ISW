@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all products by category id",
+            Description = "Requires category Id",
+            OperationId = "ListAllProductsByCategoryId",
+            Tags = new[] { "ProductsCategory" })]
+        [SwaggerResponse(200, "List of Products by Category Id", typeof(IEnumerable<AppointmentResource>))]
         [HttpGet]
         public async Task<IEnumerable<ProductResource>> GetAllByCategoryIdAsync(int categoryId)
         {
