@@ -7,3 +7,6 @@
 *.json
 *.cache
 *.tmp
+*.dll
+*.pdb
+*.txt

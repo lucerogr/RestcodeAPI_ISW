@@ -27,7 +27,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "List all products by category id",
             Description = "Requires category Id",
             OperationId = "ListAllProductsByCategoryId",
-            Tags = new[] { "ProductsCategory" })]
+            Tags = new[] { "Products_Category" })]
         [SwaggerResponse(200, "List of Products by Category Id", typeof(IEnumerable<ProductResource>))]
         [HttpGet]
         public async Task<IEnumerable<ProductResource>> GetAllByCategoryIdAsync(int categoryId)

@@ -27,7 +27,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "List all categories by restaurant Id",
             Description = "List of categories by restaurant Id",
             OperationId = "ListAllCategoriesByRestaurantId",
-            Tags = new[] { "RestaurantCategories" })]
+            Tags = new[] { "Restaurant_Categories" })]
         [HttpGet]
         public async Task<IEnumerable<CategoryResource>> GetAllByCategoryIdAsync(int restaurantId)
         {

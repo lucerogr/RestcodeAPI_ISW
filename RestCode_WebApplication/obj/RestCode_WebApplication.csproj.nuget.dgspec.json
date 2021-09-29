@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj": {}
+    "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj": {}
   },
   "projects": {
-    "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj": {
+    "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj",
+        "projectUniqueName": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj",
         "projectName": "RestCode_WebApplication",
-        "projectPath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj",
+        "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj",
         "packagesPath": "/Users/nuevo/.nuget/packages/",
-        "outputPath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/obj/",
+        "outputPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

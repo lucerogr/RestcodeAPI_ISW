@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1lrgugJWGa1Kw8k3+mfWQgj7XXrBZLc+qw3YQE3R365anZ35AGiHTZgE9i817xBSYv0+U0pDzQg893pBB1k/dw==",
+  "dgSpecHash": "5iCRW3l9ckKf7sHv4jFzfT0E6IkTWUnIsgFCkmO+4nPTaH3Upoxk9Wl4y3Qa+744C09xdVthTz456Mn+oXvxgg==",
   "success": true,
-  "projectFilePath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
+  "projectFilePath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/nuevo/.nuget/packages/automapper/10.0.0/automapper.10.0.0.nupkg.sha512",
     "/Users/nuevo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.0.1/automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

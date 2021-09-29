@@ -94,7 +94,7 @@ namespace RestCode_WebApplication.Controllers
 
         [SwaggerOperation(
             Summary = "Delete an existing category",
-            Description = "Requires id,
+            Description = "Requires id",
             OperationId = "DeleteExistingCategory",
             Tags = new[] { "Categories" })]
         [HttpDelete("{id}")]

@@ -9377,11 +9377,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
+      "projectUniqueName": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
       "projectName": "RestCode.API.NUnitTest",
-      "projectPath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
+      "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.Test/RestCode.API.NUnitTest.csproj",
       "packagesPath": "/Users/nuevo/.nuget/packages/",
-      "outputPath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode.API.Test/obj/",
+      "outputPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode.API.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -9398,8 +9398,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj": {
-              "projectPath": "/Users/nuevo/Documents/all/6th/EVOLUCION/CAPSTONE/RestCodeAPI_SoftwareEvolution/RestCode_WebApplication/RestCode_WebApplication.csproj"
+            "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj": {
+              "projectPath": "/Users/nuevo/Documents/all/7th/DIS. EXP. ISW/RestcodeAPI_ISW/RestCode_WebApplication/RestCode_WebApplication.csproj"
             }
           }
         }

@@ -28,7 +28,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "List all sale details",
             Description = "List of sale details",
             OperationId = "ListAllSaleDetails",
-            Tags = new[] { "SaleDetails" })]
+            Tags = new[] { "Sale_Details" })]
         [SwaggerResponse(200, "List of Sale Details", typeof(IEnumerable<SaleDetailResource>))]
         [HttpGet]
         public async Task<IEnumerable<SaleDetailResource>> GetAllAsync()
@@ -43,7 +43,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "Get an existing sale detail",
             Description = "Requires id",
             OperationId = "GetExistingSaleDetail",
-            Tags = new[] { "SaleDetails" })]
+            Tags = new[] { "Sale_Details" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -59,7 +59,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "Create a new sale detail",
             Description = "Requires quantity, productId and saleId",
             OperationId = "CreateNewSaleDetail",
-            Tags = new[] { "SaleDetails" })]
+            Tags = new[] { "Sale_Details" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveSaleDetailResource resource)
         {
@@ -79,7 +79,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "Update an existing sale detail",
             Description = "Requires quantity, productId and saleId",
             OperationId = "UpdateExistingSaleDetail",
-            Tags = new[] { "SaleDetails" })]
+            Tags = new[] { "Sale_Details" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveSaleDetailResource resource)
         {
@@ -96,7 +96,7 @@ namespace RestCode_WebApplication.Controllers
             Summary = "Delete an existing sale detail",
             Description = "Requires Id",
             OperationId = "DeleteExistingSaleDetail",
-            Tags = new[] { "SaleDetails" })]
+            Tags = new[] { "Sale_Details" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
