@@ -4,6 +4,7 @@ using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Extensions;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all restaurants",
+            Description = "List of Restaurants",
+            OperationId = "ListAllRestaurants",
+            Tags = new[] { "Restaurants" })]
+        [SwaggerResponse(200, "List of Restaurants", typeof(IEnumerable<RestaurantResource>))]
         [HttpGet]
         public async Task<IEnumerable<RestaurantResource>> GetAllAsync()
         {
@@ -32,6 +39,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing restaurant ",
+            Description = "Requires id",
+            OperationId = "GetExistingRestaurant",
+            Tags = new[] { "Restaurants" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -43,6 +55,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new restaurant",
+            Description = "Requires name, address, cellphone and ownerId",
+            OperationId = "CreateNewRestaurant",
+            Tags = new[] { "Restaurants" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveRestaurantResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(restaurantResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing restaurant",
+            Description = "Requires name, address, cellphone and ownerId",
+            OperationId = "UpdateExistingRestaurant",
+            Tags = new[] { "Restaurants" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveRestaurantResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(restaurantResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing restaurant",
+            Description = "Requires id",
+            OperationId = "DeleteExistingRestaurant",
+            Tags = new[] { "Restaurants" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
