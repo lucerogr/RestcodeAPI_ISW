@@ -34,17 +34,17 @@ namespace RestCode_WebApplication.Controllers
         [SwaggerResponse(200, "List of publications", typeof(IEnumerable<PublicationResource>))]
         [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<PublicationResource>), 200)]
-        public async Task<IEnumerable<Publication>> GetAllAsync()
+        public async Task<IEnumerable<PublicationResource>> GetAllAsync()
         {
             var publications = await _publicationService.ListAsync();
             var resources = _mapper.Map<IEnumerable<Publication>, IEnumerable<PublicationResource>>(publications);
-            return publications;
+            return resources;
         }
 
         [SwaggerOperation(
-            Summary = "Creates a new publication",
-            Description = "Requires date and description",
-            OperationId = "CreatePublication",
+            Summary = "Create a new publication",
+            Description = "Requires date, description and consultantId",
+            OperationId = "CreateNewPublication",
             Tags = new[] { "Publications" }
         )]
         [HttpPost]
@@ -63,9 +63,9 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "Updates an existing publication",
-            Description = "Requires id, date and description",
-            OperationId = "UpdatePublication",
+            Summary = "Update an existing publication",
+            Description = "Requires id, date, description and consultantId",
+            OperationId = "UpdateExistingPublication",
             Tags = new[] { "Publications" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SavePublicationResource resource)
@@ -80,9 +80,9 @@ namespace RestCode_WebApplication.Controllers
         }
 
         [SwaggerOperation(
-            Summary = "Deletes a publication",
+            Summary = "Delete an existing publication",
             Description = "Requires id",
-            OperationId = "DeletePublication",
+            OperationId = "DeleteExistingPublication",
             Tags = new[] { "Publications" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
