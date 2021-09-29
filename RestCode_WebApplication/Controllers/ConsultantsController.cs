@@ -8,6 +8,7 @@ using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Extensions;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace RestCode_WebApplication.Controllers
 {
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all consultants",
+            Description = "List all consultants",
+            OperationId = "ListAllConsultants",
+            Tags = new[] { "Consultants" })]
+        [SwaggerResponse(200, "List of Consultants", typeof(IEnumerable<ConsultancyResource>))]
         [HttpGet]
         public async Task<IEnumerable<Consultant>> GetAllAsync()
         {
@@ -31,6 +38,11 @@ namespace RestCode_WebApplication.Controllers
             return consultants;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing consultant",
+            Description = "Requires id",
+            OperationId = "GetExistingConsultant",
+            Tags = new[] { "Consultants" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -42,6 +54,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new consultant",
+            Description = "Requires userName, firstName, lastName, cellphone, email, password and linkedinLink",
+            OperationId = "CreateNewConsultant",
+            Tags = new[] { "Consultants" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync( [FromBody] SaveConsultantResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing consultant",
+            Description = "Requires userName, firstName, lastName, cellphone, email, password and linkedinLink",
+            OperationId = "UpdateExistingConsultant",
+            Tags = new[] { "Consultants" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveConsultantResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(consultantResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing consultant",
+            Description = "Requires id",
+            OperationId = "DeleteExistingConsultant",
+            Tags = new[] { "Consultants" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
