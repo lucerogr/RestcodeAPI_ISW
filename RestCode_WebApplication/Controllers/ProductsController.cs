@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace RestCode_WebApplication.Controllers
 {
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all products",
+            Description = "List all products",
+            OperationId = "ListAllProducts",
+            Tags = new[] { "Products" })]
+        [SwaggerResponse(200, "List of products", typeof(IEnumerable<ProductResource>))]
         [HttpGet]
         public async Task<IEnumerable<ProductResource>> GetAllAsync()
         {
@@ -32,6 +39,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing product",
+            Description = "Requires id",
+            OperationId = "GetExistingProduct",
+            Tags = new[] { "Products" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -43,6 +55,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new product",
+            Description = "Requires name, price and categoryId",
+            OperationId = "CreateNewProduct",
+            Tags = new[] { "Products" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveProductResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(productResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing product",
+            Description = "Requires name, price and categoryId",
+            OperationId = "UpdateExistingProduct",
+            Tags = new[] { "Products" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveProductResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(productResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing product",
+            Description = "Requires id",
+            OperationId = "DeleteExistingProduct",
+            Tags = new[] { "Products" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
