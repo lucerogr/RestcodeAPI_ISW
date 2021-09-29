@@ -4,6 +4,7 @@ using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
 using RestCode_WebApplication.Extensions;
 using RestCode_WebApplication.Resources;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,12 @@ namespace RestCode_WebApplication.Controllers
             _mapper = mapper;
         }
 
+        [SwaggerOperation(
+            Summary = "List all categories",
+            Description = "List all categories",
+            OperationId = "ListAllCategories",
+            Tags = new[] { "Categories" })]
+        [SwaggerResponse(200, "List of Categories", typeof(IEnumerable<CategoryResource>))]
         [HttpGet]
         public async Task<IEnumerable<CategoryResource>> GetAllAsync()
         {
@@ -32,6 +39,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
+        [SwaggerOperation(
+            Summary = "Get an existing category",
+            Description = "Requires Id",
+            OperationId = "GetExistingCategory",
+            Tags = new[] { "Categories" })]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(int id)
         {
@@ -43,6 +55,11 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [SwaggerOperation(
+            Summary = "Create a new category",
+            Description = "Requires name and restaurantId",
+            OperationId = "CreateNewCategory",
+            Tags = new[] { "Categories" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] SaveCategoryResource resource)
         {
@@ -58,6 +75,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(categoryResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing category",
+            Description = "Requires name and restaurantId",
+            OperationId = "UpdateExistingCategory",
+            Tags = new[] { "Categories" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveCategoryResource resource)
         {
@@ -70,6 +92,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(categoryResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing category",
+            Description = "Requires id,
+            OperationId = "DeleteExistingCategory",
+            Tags = new[] { "Categories" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
