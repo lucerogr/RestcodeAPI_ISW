@@ -40,7 +40,11 @@ namespace RestCode_WebApplication.Controllers
             return resources;
         }
 
-
+        [SwaggerOperation(
+            Summary = "Create a new consultancy",
+            Description = "Requires diagnosis, recommendation and appointmentId",
+            OperationId = "CreateNewConsultancy",
+            Tags = new[] { "Consultancies" })]
         [HttpPost]
         public async Task<IActionResult> PostAsync(SaveConsultancyResource resource)
         {
@@ -56,6 +60,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(consultancyResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Update an existing consultancy",
+            Description = "Requires diagnosis, recommendation and appointmentId",
+            OperationId = "UpdateExistingConsultancy",
+            Tags = new[] { "Consultancies" })]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(int id, [FromBody] SaveConsultancyResource resource)
         {
@@ -68,6 +77,11 @@ namespace RestCode_WebApplication.Controllers
             return Ok(consultancyResource);
         }
 
+        [SwaggerOperation(
+            Summary = "Delete an existing consultancy",
+            Description = "Requires id",
+            OperationId = "DeleteExistingConsultancy",
+            Tags = new[] { "Consultancies" })]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
