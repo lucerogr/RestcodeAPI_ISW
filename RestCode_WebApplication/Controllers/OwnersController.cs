@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
@@ -12,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace RestCode_WebApplication.Controllers
 {
+    [Authorize]
     [Route("/api/[controller]")]
     public class OwnersController : Controller
     {
@@ -55,6 +57,7 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [AllowAnonymous]
         [SwaggerOperation(
             Summary = "Create a new restaurant owner",
             Description = "Requires userName, firstName, lastName, cellphone, email, password and ruc",

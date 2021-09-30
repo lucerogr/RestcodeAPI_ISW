@@ -37,5 +37,11 @@ namespace RestCode_WebApplication.Persistence.Repositories
             _context.Owners.Remove(owner);
         }
 
+        public async Task<Owner> FindByMail(string mail)
+        {
+            return await _context.Owners
+               .Where(u => u.Email == mail)
+               .FirstOrDefaultAsync();
+        }
     }
 }
