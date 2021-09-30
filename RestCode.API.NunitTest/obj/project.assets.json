@@ -9251,19 +9251,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALGR\\.nuget\\packages\\": {}
+    "C:\\Users\\renat\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Escritorio\\Ciclo 7\\Diseño de experimentos\\Rest-Code\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
       "projectName": "RestCode.API.SpecTest",
-      "projectPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
-      "packagesPath": "C:\\Users\\ALGR\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\obj\\",
+      "projectPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Ciclo 7\\Diseño de experimentos\\Rest-Code\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\RestCode.API.SpecTest.csproj",
+      "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Ciclo 7\\Diseño de experimentos\\Rest-Code\\RestcodeAPI_ISW\\RestCode.API.NunitTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ALGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9277,8 +9282,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj": {
-              "projectPath": "D:\\GitHub\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj"
+            "C:\\Users\\renat\\OneDrive\\Escritorio\\Ciclo 7\\Diseño de experimentos\\Rest-Code\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj": {
+              "projectPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Ciclo 7\\Diseño de experimentos\\Rest-Code\\RestcodeAPI_ISW\\RestCode_WebApplication\\RestCode_WebApplication.csproj"
             }
           }
         }
@@ -9333,7 +9338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
