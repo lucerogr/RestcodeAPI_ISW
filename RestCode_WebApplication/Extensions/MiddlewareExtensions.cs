@@ -19,7 +19,7 @@ namespace RestCode_WebApplication.Extensions
                 {
                     Title = "RestCode API",
                     Version = "v1",
-                    Description = "RestCode RESTFul API"
+                    Description = "Documentación del RestCode RESTful API"
                 });
                 c.EnableAnnotations();
             });

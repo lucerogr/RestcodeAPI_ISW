@@ -37,7 +37,7 @@ namespace RestCode_WebApplication
             services.AddControllers();
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseInMemoryDatabase("supermarket-api-in-memory");
+                options.UseInMemoryDatabase("restcode-api-in-memory");
                 //options.UseMySQL("server=localhost;database=supermarket;user=root;password=password");
                 //options.UseMySQL(Configuration.GetConnectionString("MySQLConnection"));
                 //options.UseMySQL(Configuration.GetConnectionString("AzureMySQLConnection"));

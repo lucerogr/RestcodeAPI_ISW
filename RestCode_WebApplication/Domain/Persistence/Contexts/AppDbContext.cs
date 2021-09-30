@@ -69,9 +69,9 @@ namespace RestCode_WebApplication.Domain.Persistence.Contexts
             builder.Entity<Consultant>().HasData
                 (
                 new Consultant
-                { Id = 20, UserName = "abcdef" ,FirstName = "Abece", LastName = "Deefe", Cellphone = "95681914", Email = "abcdef.letras.com", Password = "password", LinkedinLink = "abcd.com" },
+                { Id = 1, UserName = "julio12" ,FirstName = "Julio", LastName = "Rios", Cellphone = "956819114", Email = "julior@gmail.com", Password = "riosjulio", LinkedinLink = "pe.linkedin.com/julio-rios" },
                 new Consultant
-                { Id = 22, UserName = "aeiou123",FirstName = "Aeiou", LastName = "Lol", Cellphone = "9456988", Email = "aeiou.vocal.com", Password = "P4sw0rd", LinkedinLink = "aeiou.com" }
+                { Id = 2, UserName = "alexis21",FirstName = "Alexis", LastName = "Rivera", Cellphone = "94569818", Email = "alexisr@gmail.com", Password = "riveraalexis", LinkedinLink = "pe.linkedin.com/alexis-rivera" }
                 );
 
             //Restaurant Entity
@@ -300,9 +300,9 @@ namespace RestCode_WebApplication.Domain.Persistence.Contexts
             builder.Entity<Owner>().HasData
             (
                 new Owner
-                { Id = 1, UserName = "Luce00", FirstName = "Lucero", LastName = "Jara", Cellphone = "956819142", Email = "a@com", Password = "password", Ruc = 12345678901 },
+                { Id = 1, UserName = "Luce00", FirstName = "Lucero", LastName = "Rivera", Cellphone = "956819142", Email = "luceror@gmail.com", Password = "riveralucero", Ruc = 12345678901 },
                 new Owner
-                { Id = 2, UserName = "Iren23", FirstName = "Irene", LastName = "Soto", Cellphone = "945698822", Email = "b@com", Password = "P4sw0rd", Ruc = 12345678902 }
+                { Id = 2, UserName = "Iren23", FirstName = "Irene", LastName = "Soto", Cellphone = "945698822", Email = "irene@gmail.com", Password = "sotoirene", Ruc = 12345678902 }
             );
 
             // Sales entity
