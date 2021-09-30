@@ -25,6 +25,21 @@ namespace RestCode_WebApplication.Extensions
             });
             return services;
         }
+        public static IServiceCollection ActiveCors(this IServiceCollection services)
+        {
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                                  builder =>
+                                  {
+                                      builder.WithOrigins("http://localhost:8080")
+                                      .AllowAnyHeader()
+                                      .AllowAnyMethod();
+                                  });
+            });
+
+            return services;
+        }
 
         public static IApplicationBuilder UseCustomeSwagger(this IApplicationBuilder app)
         {
@@ -39,5 +54,7 @@ namespace RestCode_WebApplication.Extensions
             });
             return app;
         }
+
+        
     }
 }

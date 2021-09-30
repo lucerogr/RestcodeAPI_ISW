@@ -25,6 +25,13 @@ namespace RestCode_WebApplication.Persistence.Repositories
             return await _context.Consultants.FindAsync(id);
         }
 
+        public async Task<Consultant> FindByMail(string mail)
+        {
+            return await _context.Consultants
+               .Where(u => u.Email == mail)
+               .FirstOrDefaultAsync();
+        }
+
         public async Task<IEnumerable<Consultant>> ListAsync()
         {
             return await _context.Consultants.ToListAsync();
