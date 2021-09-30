@@ -382,3 +382,4 @@ D:\GitHub\RestcodeAPI_ISW\RestCode_WebApplication\obj\Debug\netcoreapp3.1\RestCo
 D:\GitHub\RestcodeAPI_ISW\RestCode_WebApplication\obj\Debug\netcoreapp3.1\RestCode_WebApplication.dll
 D:\GitHub\RestcodeAPI_ISW\RestCode_WebApplication\obj\Debug\netcoreapp3.1\RestCode_WebApplication.pdb
 D:\GitHub\RestcodeAPI_ISW\RestCode_WebApplication\obj\Debug\netcoreapp3.1\RestCode_WebApplication.genruntimeconfig.cache
+D:\GitHub\RestcodeAPI_ISW\RestCode_WebApplication\bin\Debug\netcoreapp3.1\global.json
