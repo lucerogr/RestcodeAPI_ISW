@@ -20,22 +20,23 @@ namespace RestCode.API.SpecTest.Features
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("AddCategoryToRestaurant")]
-    public partial class AddCategoryToRestaurantFeature
+    [NUnit.Framework.DescriptionAttribute("Publicar Información de Contacto")]
+    public partial class PublicarInformacionDeContactoFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
         private string[] _featureTags = ((string[])(null));
         
-#line 1 "AddCategoryToRestaurant.feature"
+#line 1 "PublicarInformacionContacto.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "AddCategoryToRestaurant", "\tAs owner I want to add a new category of dishes for my restaurant", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Publicar Información de Contacto", "\tCOMO Consultor de Negocios, \r\n\tQUIERO publicar mi Información de Contacto \r\n\tPAR" +
+                    "A proporcionar distintos métodos de comunicación a mis clientes.", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -74,15 +75,15 @@ namespace RestCode.API.SpecTest.Features
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Add new categories to my restaurant")]
+        [NUnit.Framework.DescriptionAttribute("Consultor quiere publicar su información de contacto")]
         [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void AddNewCategoriesToMyRestaurant()
+        public virtual void ConsultorQuierePublicarSuInformacionDeContacto()
         {
             string[] tagsOfScenario = new string[] {
                     "mytag"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add new categories to my restaurant", null, tagsOfScenario, argumentsOfScenario);
-#line 5
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Consultor quiere publicar su información de contacto", null, tagsOfScenario, argumentsOfScenario);
+#line 7
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -102,18 +103,30 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 6
- testRunner.Given("the owner wants to add on category endpoint", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 8
+ testRunner.Given("que el consultor de negocios se encuentra en la seccion Perfil", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
-                            "Name"});
-                table1.AddRow(new string[] {
-                            "Comida China"});
-#line 7
- testRunner.When("owner add a new category", ((string)(null)), table1, "When ");
+                TechTalk.SpecFlow.Table table3 = new TechTalk.SpecFlow.Table(new string[] {
+                            "userName",
+                            "firstName",
+                            "lastName",
+                            "cellphone",
+                            "email",
+                            "password",
+                            "linkedinLink"});
+                table3.AddRow(new string[] {
+                            "luis12",
+                            "Luis",
+                            "Rios",
+                            "988123412",
+                            "luis21@gmail.com",
+                            "riosluis",
+                            "pe.linkedin.com/luis-rios"});
+#line 9
+ testRunner.When("ingresa su Información de Contacto", ((string)(null)), table3, "When ");
 #line hidden
-#line 10
- testRunner.Then("the category will be added succesfully", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 12
+ testRunner.Then("su informacion se agrega a su perfil", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

@@ -20,23 +20,24 @@ namespace RestCode.API.SpecTest.Features
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("RestaurantGiveAssignment")]
-    public partial class RestaurantGiveAssignmentFeature
+    [NUnit.Framework.DescriptionAttribute("Calificar y retroalimenta al consultor")]
+    public partial class CalificarYRetroalimentaAlConsultorFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
         private string[] _featureTags = ((string[])(null));
         
-#line 1 "RestaurantGiveAssignment.feature"
+#line 1 "CalificarRetroalimentarAlConsultor.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "RestaurantGiveAssignment", "\tAs a restaurant owner, I make assignment \r\n\tto the consultant to access its info" +
-                    "rmation", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Calificar y retroalimenta al consultor", @"	COMO dueño de restaurante 
+	QUIERO brindar una calificación y retroalimentación a un consultor 
+	PARA expresar mi opinión respecto al servicio brindado, mencionar puntos en los que podría mejorar y, de esta manera, más dueños de restaurantes conozcan su forma de trabajar", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -75,15 +76,17 @@ namespace RestCode.API.SpecTest.Features
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("As an owner make an assignment to consultant")]
+        [NUnit.Framework.DescriptionAttribute("El dueño de restaurante escribe su opinión de acuerdo con el servicio que recibió" +
+            " por parte del consultor")]
         [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void AsAnOwnerMakeAnAssignmentToConsultant()
+        public virtual void ElDuenoDeRestauranteEscribeSuOpinionDeAcuerdoConElServicioQueRecibioPorParteDelConsultor()
         {
             string[] tagsOfScenario = new string[] {
                     "mytag"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("As an owner make an assignment to consultant", null, tagsOfScenario, argumentsOfScenario);
-#line 6
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("El dueño de restaurante escribe su opinión de acuerdo con el servicio que recibió" +
+                    " por parte del consultor", null, tagsOfScenario, argumentsOfScenario);
+#line 7
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -103,18 +106,27 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 7
- testRunner.Given("as an owner add on assignment endpoint", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-                TechTalk.SpecFlow.Table table5 = new TechTalk.SpecFlow.Table(new string[] {
-                            "State"});
-                table5.AddRow(new string[] {
-                            "true"});
 #line 8
- testRunner.When("the owner add assignment", ((string)(null)), table5, "When ");
+ testRunner.Given("que el dueño del restaurante se encuentra en la sección Dejar una opinión en el p" +
+                        "erfil del consultor de negocio", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-#line 11
- testRunner.Then("the assignment will be add successfully", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+                            "PublishedDate",
+                            "Description",
+                            "PublicationId",
+                            "OwnerId",
+                            "ConsultantId"});
+                table1.AddRow(new string[] {
+                            "2021/09/29",
+                            "Gran profesional. Comprometido al maximo.",
+                            "2",
+                            "1",
+                            "20"});
+#line 9
+ testRunner.When("el dueño del restaurante termina de escribir su opinión", ((string)(null)), table1, "When ");
+#line hidden
+#line 12
+ testRunner.Then("el sistema guarda su opinión como un comentario exitosamente", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

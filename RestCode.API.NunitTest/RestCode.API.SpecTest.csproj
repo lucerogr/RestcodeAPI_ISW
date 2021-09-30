@@ -19,10 +19,4 @@
     <ProjectReference Include="..\RestCode_WebApplication\RestCode_WebApplication.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="Features\RegisterRestaurant.feature.cs">
-      <DependentUpon>registerRestaurant.feature</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
 </Project>

@@ -20,22 +20,24 @@ namespace RestCode.API.SpecTest.Features
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("registerRestaurant")]
-    public partial class RegisterRestaurantFeature
+    [NUnit.Framework.DescriptionAttribute("Contratar servicio de consultoría")]
+    public partial class ContratarServicioDeConsultoriaFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
         private string[] _featureTags = ((string[])(null));
         
-#line 1 "registerRestaurant.feature"
+#line 1 "ContratarServicioDeConsultoria.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "registerRestaurant", "\tAs owner i want to register my restaurant ", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Contratar servicio de consultoría", "\tCOMO dueño de un restaurante\r\n\tQUIERO contratar un servicio de consultoría \r\n\tPA" +
+                    "RA evaluar y escoger la solución más efectiva al problema que estoy atravesando," +
+                    " \r\n\tademás de mejorar la gestión de mi negocio de una forma eficiente", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -74,15 +76,15 @@ namespace RestCode.API.SpecTest.Features
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("As owner i want to register restaurant")]
-        [NUnit.Framework.CategoryAttribute("tag1")]
-        public virtual void AsOwnerIWantToRegisterRestaurant()
+        [NUnit.Framework.DescriptionAttribute("El dueño del restaurante programa una cita")]
+        [NUnit.Framework.CategoryAttribute("mytag")]
+        public virtual void ElDuenoDelRestauranteProgramaUnaCita()
         {
             string[] tagsOfScenario = new string[] {
-                    "tag1"};
+                    "mytag"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("As owner i want to register restaurant", null, tagsOfScenario, argumentsOfScenario);
-#line 5
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("El dueño del restaurante programa una cita", null, tagsOfScenario, argumentsOfScenario);
+#line 8
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -102,22 +104,24 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 6
- testRunner.Given("as owner login to endpoint to add restaurant", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 9
+ testRunner.Given("que el dueño del restaurante quiere programar una cita con un consultor", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
-                            "Name",
-                            "Address",
-                            "CellPhoneNumber"});
-                table4.AddRow(new string[] {
-                            "El mero loco",
-                            "Av siempre lt4",
-                            "956"});
-#line 7
- testRunner.When("as owner complete the requerid data", ((string)(null)), table4, "When ");
-#line hidden
+                TechTalk.SpecFlow.Table table2 = new TechTalk.SpecFlow.Table(new string[] {
+                            "CurrentDateTime",
+                            "ScheduleDateTime",
+                            "Topic",
+                            "MeetLink"});
+                table2.AddRow(new string[] {
+                            "29-10-2020",
+                            "07-11-2020",
+                            "Topic1",
+                            "meet.google.com.mez-uwgg-obk"});
 #line 10
- testRunner.Then("I register my data successfully", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.When("solicita una cita ingresando los datos que se piden", ((string)(null)), table2, "When ");
+#line hidden
+#line 13
+ testRunner.Then("el sistema programa la cita de manera exitosa.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
