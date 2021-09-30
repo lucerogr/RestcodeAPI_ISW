@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestCode_WebApplication.Domain.Models;
 using RestCode_WebApplication.Domain.Services;
@@ -12,8 +13,9 @@ using Swashbuckle.AspNetCore.Annotations;
 
 namespace RestCode_WebApplication.Controllers
 {
+    [Authorize]
     [Route("/api/[controller]")]
-    //[ApiController]
+    [ApiController]
     public class ConsultantsController : ControllerBase
     {
         private readonly IConsultantService _consultantService;
@@ -54,6 +56,7 @@ namespace RestCode_WebApplication.Controllers
 
         }
 
+        [AllowAnonymous]
         [SwaggerOperation(
             Summary = "Create a new consultant",
             Description = "Requires userName, firstName, lastName, cellphone, email, password and linkedinLink",

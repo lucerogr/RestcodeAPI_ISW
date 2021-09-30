@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace RestCode_WebApplication.Domain.Models
@@ -13,8 +14,10 @@ namespace RestCode_WebApplication.Domain.Models
         public virtual string LastName { get; set; }
         public virtual string Cellphone { get; set; }
         public virtual string Email { get; set; }
+        [JsonIgnore]
         public virtual string Password { get; set; }
-
+        [JsonIgnore]
+        public virtual string Token { get; set; }
         
     }
 }

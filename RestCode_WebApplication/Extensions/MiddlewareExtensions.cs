@@ -19,10 +19,25 @@ namespace RestCode_WebApplication.Extensions
                 {
                     Title = "RestCode API",
                     Version = "v1",
-                    Description = "Documentación del RestCode RESTful API"
+                    Description = "RestCode RESTFul API"
                 });
                 c.EnableAnnotations();
             });
+            return services;
+        }
+        public static IServiceCollection ActiveCors(this IServiceCollection services)
+        {
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                                  builder =>
+                                  {
+                                      builder.WithOrigins("http://localhost:8080")
+                                      .AllowAnyHeader()
+                                      .AllowAnyMethod();
+                                  });
+            });
+
             return services;
         }
 
@@ -39,5 +54,7 @@ namespace RestCode_WebApplication.Extensions
             });
             return app;
         }
+
+        
     }
 }

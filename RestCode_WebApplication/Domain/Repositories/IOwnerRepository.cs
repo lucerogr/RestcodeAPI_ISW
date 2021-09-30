@@ -11,6 +11,7 @@ namespace RestCode_WebApplication.Domain.Repositories
         Task<IEnumerable<Owner>> ListAsync();
         Task AddAsync(Owner owner);
         Task<Owner> FindById(int id);
+        Task<Owner> FindByMail(string mail);
         void Update(Owner owner);
         void Remove(Owner owner);
     }
